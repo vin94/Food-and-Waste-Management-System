@@ -1,0 +1,8 @@
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$4
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$5
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$2
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$3
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$1
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$6
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel$7
+userInterface.ngo.ngoAdmin.NGOManageUserAccountJPanel

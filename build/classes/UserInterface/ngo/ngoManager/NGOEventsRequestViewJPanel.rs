@@ -1,0 +1,3 @@
+userInterface.ngo.ngoManager.NGOEventsRequestViewJPanel$2
+userInterface.ngo.ngoManager.NGOEventsRequestViewJPanel$1
+userInterface.ngo.ngoManager.NGOEventsRequestViewJPanel

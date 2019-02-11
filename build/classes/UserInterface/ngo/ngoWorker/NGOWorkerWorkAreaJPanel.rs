@@ -1,0 +1,4 @@
+userInterface.ngo.ngoWorker.NGOWorkerWorkAreaJPanel$2
+userInterface.ngo.ngoWorker.NGOWorkerWorkAreaJPanel$3
+userInterface.ngo.ngoWorker.NGOWorkerWorkAreaJPanel
+userInterface.ngo.ngoWorker.NGOWorkerWorkAreaJPanel$1

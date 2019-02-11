@@ -1,0 +1,3 @@
+userInterface.ngo.ngoWorker.NGOWorkerViewRequestJPanel$1
+userInterface.ngo.ngoWorker.NGOWorkerViewRequestJPanel$2
+userInterface.ngo.ngoWorker.NGOWorkerViewRequestJPanel

@@ -1,0 +1,6 @@
+userInterface.systemAdminWorkArea.ManageEnterpriseAdminJPanel
+userInterface.systemAdminWorkArea.ManageEnterpriseAdminJPanel$5
+userInterface.systemAdminWorkArea.ManageEnterpriseAdminJPanel$2
+userInterface.systemAdminWorkArea.ManageEnterpriseAdminJPanel$1
+userInterface.systemAdminWorkArea.ManageEnterpriseAdminJPanel$4
+userInterface.systemAdminWorkArea.ManageEnterpriseAdminJPanel$3

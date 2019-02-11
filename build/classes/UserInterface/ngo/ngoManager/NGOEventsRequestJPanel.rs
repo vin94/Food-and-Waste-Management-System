@@ -1,0 +1,7 @@
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel$2
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel$1
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel$4
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel$3
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel$6
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel
+userInterface.ngo.ngoManager.NGOEventsRequestJPanel$5

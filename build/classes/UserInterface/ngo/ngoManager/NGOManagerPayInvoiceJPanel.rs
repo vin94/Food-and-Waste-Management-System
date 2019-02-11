@@ -1,0 +1,4 @@
+userInterface.ngo.ngoManager.NGOManagerPayInvoiceJPanel$2
+userInterface.ngo.ngoManager.NGOManagerPayInvoiceJPanel$1
+userInterface.ngo.ngoManager.NGOManagerPayInvoiceJPanel$3
+userInterface.ngo.ngoManager.NGOManagerPayInvoiceJPanel

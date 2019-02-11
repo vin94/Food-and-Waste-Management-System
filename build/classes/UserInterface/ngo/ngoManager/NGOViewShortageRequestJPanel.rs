@@ -1,0 +1,3 @@
+userInterface.ngo.ngoManager.NGOViewShortageRequestJPanel
+userInterface.ngo.ngoManager.NGOViewShortageRequestJPanel$2
+userInterface.ngo.ngoManager.NGOViewShortageRequestJPanel$1

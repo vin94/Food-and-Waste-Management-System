@@ -1,0 +1,5 @@
+userInterface.ngo.ngoAdmin.NGOManageEmployeeJPanel$1
+userInterface.ngo.ngoAdmin.NGOManageEmployeeJPanel$4
+userInterface.ngo.ngoAdmin.NGOManageEmployeeJPanel$3
+userInterface.ngo.ngoAdmin.NGOManageEmployeeJPanel$2
+userInterface.ngo.ngoAdmin.NGOManageEmployeeJPanel

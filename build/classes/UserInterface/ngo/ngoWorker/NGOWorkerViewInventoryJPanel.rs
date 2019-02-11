@@ -1,0 +1,3 @@
+userInterface.ngo.ngoWorker.NGOWorkerViewInventoryJPanel$2
+userInterface.ngo.ngoWorker.NGOWorkerViewInventoryJPanel
+userInterface.ngo.ngoWorker.NGOWorkerViewInventoryJPanel$1
